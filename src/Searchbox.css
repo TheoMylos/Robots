@@ -1,0 +1,12 @@
+.pa2{text-align: center;
+justify-content: center;
+display: flex;
+}
+.Searchbox{
+  background: lightblue;
+  width: 12rem;
+  height: 2.5rem;
+  border: none;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
